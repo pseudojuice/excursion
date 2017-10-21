@@ -6,6 +6,7 @@ body{
 h1 {
   font-size: 50px;
   color: white;
+  font-weight: normal;
 }
 h2 {
   font-family: verdana;
@@ -16,6 +17,7 @@ h2 {
 h4 {
   text-align: right;
   color: gray;
+  font-weight: normal;
 }
 a {
   font-size: 16px;
