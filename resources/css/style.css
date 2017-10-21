@@ -14,13 +14,14 @@ h2 {
   font-weight: 300;
   color: white;
 }
-h4 {
+h4.copyright {
   text-align: right;
   color: gray;
   font-weight: normal;
 }
 a {
   font-size: 16px;
+  font-weight: normal;
   color: aquamarine;
 }
 p {
